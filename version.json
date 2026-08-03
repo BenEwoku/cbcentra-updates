@@ -1,9 +1,9 @@
 {
-  "latest_version": "1.0.8",
-  "minimum_version": "1.0.6",
+  "latest_version": "1.0.9",
+  "minimum_version": "1.0.8",
   "release_date": "2026-08-03",
   "download_url": "https://drive.google.com/file/d/1IihSEcnjje0OcKm9DoS5WkBRl_dkrcBX/view?usp=drive_link",
-  "release_notes": "• Added admitted students tab\n• All modules as in the user manual\n• Please read the manual for step by step guide or ask Centra AI assistant",
+  "release_notes": "• Added admitted students tab\n• Version 1.0.9 Coming Soon\n• Please read the manual for step by step guide or ask Centra AI assistant",
   "is_critical": false,
   "file_size_mb": 258
 
