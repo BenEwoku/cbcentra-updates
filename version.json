@@ -1,9 +1,9 @@
 {
-  "latest_version": "1.1.0",
-  "minimum_version": "1.0.9",
+  "latest_version": "1.1.2",
+  "minimum_version": "1.1.1",
   "release_date": "2026-08-06",
   "download_url": "https://drive.google.com/file/d/1IihSEcnjje0OcKm9DoS5WkBRl_dkrcBX/view?usp=drive_link",
-  "release_notes": "• Added gate attendance tab for students and teachers\n• Version 1.1.1 On its way\n• Please read the manual for step by step guide or ask Centra AI assistant",
+  "release_notes": "• Added missing fields in supplier contracts and in pdf generation\n• Version 1.1.3 On its way\n• Please read the manual for step by step guide or ask Centra AI assistant",
   "is_critical": false,
   "file_size_mb": 258
 
