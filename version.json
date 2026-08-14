@@ -3,7 +3,7 @@
   "minimum_version": "1.1.2",
   "release_date": "2026-08-06",
   "download_url": "https://drive.google.com/file/d/1IihSEcnjje0OcKm9DoS5WkBRl_dkrcBX/view?usp=drive_link",
-  "release_notes": "• Bug fixes in the fee collection (students and fees) dropdown in the modal dialog\n• Version 1.1.3 On its way\n• Please read the manual for step by step guide or ask Centra AI assistant",
+  "release_notes": "• Bug fixes in the fee collection (students fees and fee payments) dropdown in the modal dialog. Removed duplicate populations in the terms and subject filters in various modules\n• Version 1.1.5 On its way\n• Please read the manual for step by step guide or ask Centra AI assistant",
   "is_critical": false,
   "file_size_mb": 258
 
