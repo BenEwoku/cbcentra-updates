@@ -1,9 +1,9 @@
 {
-  "latest_version": "1.16",
-  "minimum_version": "1.15",
-  "release_date": "2026-08-22",
+  "latest_version": "1.24",
+  "minimum_version": "1.23",
+  "release_date": "2026-09-05",
   "download_url": "https://drive.google.com/file/d/1IihSEcnjje0OcKm9DoS5WkBRl_dkrcBX/view?usp=drive_link",
-  "release_notes": "• Bug fixes in exam timetable class-wise filter. Also fixed respective report generation for accurate classes with current and historical records\n• Version 1.17 On its way\n• Please read the manual for step by step guide or ask Centra AI assistant",
+  "release_notes": "• Added Flask to access the application via the phone and Web browser using--http://100.75.211.98:5000./\n• Version 1.25 On its way\n• Please read the manual for step by step guide or ask Centra AI assistant",
   "is_critical": false,
   "file_size_mb": 258
 
