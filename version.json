@@ -1,11 +1,11 @@
 {
-  "latest_version": "1.27",
+  "latest_version": "1.28",
   "minimum_version": "1.26",
-  "release_date": "2026-09-12",
+  "release_date": "2026-09-15",
   "download_url": "https://drive.google.com/file/d/1IihSEcnjje0OcKm9DoS5WkBRl_dkrcBX/view?usp=drive_link",
-  "release_notes": "• Added Flask to access the application via Tailscale with the phone and Web browser using--http://100.75.211.98:5000--\n• Added student gate arrivals, staff daily attendance with QR code scanning, data sync in real time.\n• Version 1.25 On its way\n• Please read the manual for step by step guide or ask Centra AI assistant",
+  "release_notes": "• Added Flask to access the application via Tailscale with the phone and Web browser using--http://100.75.211.98:5000--\n• Added student gate arrivals, staff daily attendance with QR code scanning, data sync in real time.\n• Enhanced Attendance and Budget Modules\n• Version 1.29 On its way\n• Please read the manual for step by step guide or ask Centra AI assistant",
   "is_critical": false,
-  "file_size_mb": 258
+  "file_size_mb": 260
 
 }
 
