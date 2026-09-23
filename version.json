@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.30",
-  "minimum_version": "1.27",
+  "latest_version": "1.34",
+  "minimum_version": "1.30",
   "release_date": "2026-09-19",
   "download_url": "PASTE_YOUR_NEW_DRIVE_LINK_HERE",
   "release_notes": "• Unified Finance Architecture — All payments (expenses, recurring bills, purchase orders, contracts, payroll) now flow through a single ledger that updates the budget automatically\n• Payroll Integration — Approved payroll now posts to the budget as a single monthly expense and can be unfinalized if needed\n• Recurring Bills — Track monthly utilities (NWSC, UMEME, Waste collection) with due-date reminders and one-click payment recording\n• Contract Installments — Pay signed agreements in scheduled installments with automatic expense creation and progress tracking\n• Budget Recompute — One-click to resync all budget actuals from Paid expenses\n• Purchase Order Auto-Numbering — PO numbers auto-generate in PO-YY-NNN format\n• Category & Subcategory Masters — Manage budget categories from a single location with dropdowns everywhere\n• Bug Fixes — Fixed PO loading, term resolution, budget sync, and multiple data integrity issues\n• Version 1.31 On Its Way\n• Please read the manual for a step-by-step guide or ask Centra AI assistant",
